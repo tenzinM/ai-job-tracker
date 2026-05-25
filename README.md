@@ -5,7 +5,7 @@ An AI-powered full-stack job application tracking platform that helps users mana
 ---
 
 ## 📌 Live Demo
-https://your-deployed-link.com
+-
 
 ---
 
